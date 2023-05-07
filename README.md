@@ -1,4 +1,4 @@
-# OpenAI-API-study
+# OpenAI-API-Study
 
 OpenAI API basic command tutorials.
 
